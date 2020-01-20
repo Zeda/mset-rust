@@ -1,0 +1,12 @@
+[package]
+name = "mset"
+version = "0.1.0"
+authors = ["Zeda Thomas <xedaelnara@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[profile.release]
+opt-level = 3
+
+[dependencies]
+image = "0.22.4"
