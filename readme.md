@@ -1,7 +1,10 @@
 # mset
 This is just a quick program I put together for practice with Rust.
 
+![*Firey Mandelbrot set*](https://i.imgur.com/cwabDAUm.png)
 ![*Mandelbrot set in blue*](https://i.imgur.com/BdTNO19m.png)
+
+See this [Imgur album](https://imgur.com/a/TcSF8UE) for more!
 
 # "License"
 Feel free to use this at your own risk and do whatever you want with the code.
