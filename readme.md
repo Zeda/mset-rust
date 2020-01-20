@@ -1,6 +1,8 @@
 # mset
 This is just a quick program I put together for practice with Rust.
 
+![*Mandelbrot set in blue*](https://i.imgur.com/BdTNO19m.png)
+
 # "License"
 Feel free to use this at your own risk and do whatever you want with the code.
 
